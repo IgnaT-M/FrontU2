@@ -176,4 +176,5 @@
         <a class="btn btn-primary" href="https://www.instagram.com/terrasol_parcelas?igsh=eG51a2w4NGx5ODJu" role="button">instagram</a>
         <a class="btn btn-primary" href="https://www.facebook.com/tuparcelaenelsurdechile?mibextid=ZbWKwL" role="button">facebook</a>
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
